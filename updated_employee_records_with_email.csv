@@ -1,0 +1,101 @@
+Employee ID,Full Name,Department,Role,Number of Tickets Assigned,Number of Tickets Completed,Total Number of Working Days (Quarter),Number of Working Days (Quarter),Email
+E0001,John Holt,Finance,Financial Analyst,35,13,90,73,john.holt@example.com
+E0002,Todd Moore,Engineering,Software Engineer,62,35,90,77,todd.moore@example.com
+E0003,Kayla Anderson,Marketing,Content Strategist,54,38,90,68,kayla.anderson@example.com
+E0004,Brian Johnston,Finance,Financial Analyst,38,35,90,85,brian.johnston@example.com
+E0005,Daniel Elliott,Marketing,Content Strategist,53,49,90,64,daniel.elliott@example.com
+E0006,Noah Davis,Finance,Financial Analyst,29,17,90,63,noah.davis@example.com
+E0007,Danielle Harrison,Marketing,SEO Specialist,100,66,90,78,danielle.harrison@example.com
+E0008,James Russell,Finance,Financial Analyst,39,35,90,66,james.russell@example.com
+E0009,John Gonzalez,Finance,Financial Analyst,40,21,90,88,john.gonzalez@example.com
+E0010,Daniel Butler,Support,Support Agent,76,36,90,90,daniel.butler@example.com
+E0011,Charles Smith,Marketing,SEO Specialist,30,23,90,71,charles.smith@example.com
+E0012,Jonathan May,Finance,Accountant,60,5,90,64,jonathan.may@example.com
+E0013,George Bailey,Engineering,QA Engineer,77,60,90,75,george.bailey@example.com
+E0014,Victoria Jones,Marketing,SEO Specialist,89,52,90,80,victoria.jones@example.com
+E0015,Ashley Baldwin,Marketing,Content Strategist,85,13,90,78,ashley.baldwin@example.com
+E0016,William Gallegos,Marketing,Content Strategist,21,14,90,64,william.gallegos@example.com
+E0017,Ryan Miller,Engineering,QA Engineer,60,49,90,78,ryan.miller@example.com
+E0018,Charles Dorsey,Sales,Sales Executive,68,19,90,75,charles.dorsey@example.com
+E0019,Nicole Greene,HR,Recruiter,55,54,90,61,nicole.greene@example.com
+E0020,Nancy Campos,Support,Customer Success Manager,99,39,90,63,nancy.campos@example.com
+E0021,Samantha Schultz,Finance,Financial Analyst,22,13,90,71,samantha.schultz@example.com
+E0022,Steven Carson,Finance,Financial Analyst,58,8,90,60,steven.carson@example.com
+E0023,Faith Edwards,Support,Customer Success Manager,74,57,90,64,faith.edwards@example.com
+E0024,John Gaines,Marketing,Content Strategist,13,10,90,73,john.gaines@example.com
+E0025,Hector Spencer,Support,Customer Success Manager,38,8,90,89,hector.spencer@example.com
+E0026,Susan Harrison,HR,Recruiter,99,65,90,83,susan.harrison@example.com
+E0027,Diana Smith,Marketing,Content Strategist,22,10,90,63,diana.smith@example.com
+E0028,Nicole Calderon,Marketing,Content Strategist,78,11,90,70,nicole.calderon@example.com
+E0029,Karen Rodriguez MD,Sales,Account Manager,32,16,90,80,karen.md@example.com
+E0030,Lauren Hughes,Marketing,SEO Specialist,93,92,90,82,lauren.hughes@example.com
+E0031,Christopher Ryan,HR,Recruiter,21,21,90,64,christopher.ryan@example.com
+E0032,Lynn Cooper,Finance,Accountant,86,66,90,71,lynn.cooper@example.com
+E0033,Mr. Robert Li,HR,Recruiter,43,42,90,64,mr..li@example.com
+E0034,Jason Jefferson MD,Finance,Financial Analyst,93,80,90,60,jason.md@example.com
+E0035,Crystal Henderson,Engineering,DevOps Engineer,52,13,90,86,crystal.henderson@example.com
+E0036,Jacob Garcia,Support,Customer Success Manager,36,17,90,78,jacob.garcia@example.com
+E0037,Eric Barton,Finance,Accountant,43,10,90,85,eric.barton@example.com
+E0038,Mark Glover V,Engineering,DevOps Engineer,55,24,90,79,mark.v@example.com
+E0039,John George,HR,Recruiter,87,23,90,77,john.george@example.com
+E0040,Breanna Walton,Finance,Accountant,37,11,90,65,breanna.walton@example.com
+E0041,Sarah Juarez,Engineering,Software Engineer,61,55,90,71,sarah.juarez@example.com
+E0042,Sherry Garcia,Sales,Sales Executive,63,14,90,84,sherry.garcia@example.com
+E0043,Christine Reyes,Marketing,SEO Specialist,55,38,90,85,christine.reyes@example.com
+E0044,Kimberly Anderson MD,Finance,Financial Analyst,100,77,90,62,kimberly.md@example.com
+E0045,Janet Velez,Finance,Financial Analyst,60,29,90,87,janet.velez@example.com
+E0046,Brian Ortiz,Support,Customer Success Manager,98,41,90,66,brian.ortiz@example.com
+E0047,Matthew Kim,Support,Support Agent,20,20,90,90,matthew.kim@example.com
+E0048,Melissa Norton,Support,Support Agent,87,44,90,81,melissa.norton@example.com
+E0049,Sarah Boyd,Marketing,SEO Specialist,71,57,90,73,sarah.boyd@example.com
+E0050,Joy Wolf,HR,HR Manager,48,8,90,86,joy.wolf@example.com
+E0051,Nicholas Glenn,HR,Recruiter,22,10,90,80,nicholas.glenn@example.com
+E0052,Darren Hubbard,Sales,Sales Executive,89,60,90,88,darren.hubbard@example.com
+E0053,William Rivera,Sales,Account Manager,94,21,90,77,william.rivera@example.com
+E0054,Steven Collins,HR,Recruiter,77,10,90,60,steven.collins@example.com
+E0055,Janet Sanchez,Finance,Accountant,73,60,90,65,janet.sanchez@example.com
+E0056,Ashley Kennedy,Marketing,SEO Specialist,58,41,90,81,ashley.kennedy@example.com
+E0057,Dr. Joseph Sandoval,Engineering,Software Engineer,58,40,90,74,dr..sandoval@example.com
+E0058,Ashley Brown,HR,HR Manager,84,60,90,82,ashley.brown@example.com
+E0059,Bradley Hall,Marketing,SEO Specialist,63,54,90,90,bradley.hall@example.com
+E0060,Mary Cochran,Engineering,DevOps Engineer,97,16,90,72,mary.cochran@example.com
+E0061,Kenneth Willis,Marketing,SEO Specialist,73,59,90,67,kenneth.willis@example.com
+E0062,Beth Richardson,Support,Support Agent,75,25,90,63,beth.richardson@example.com
+E0063,Daniel Sullivan,Sales,Sales Executive,22,19,90,83,daniel.sullivan@example.com
+E0064,William Wilson,Sales,Sales Executive,72,68,90,89,william.wilson@example.com
+E0065,Lucas Phillips,Finance,Accountant,69,32,90,79,lucas.phillips@example.com
+E0066,Heather Bowen,HR,Recruiter,75,40,90,71,heather.bowen@example.com
+E0067,Adam Miles,Engineering,QA Engineer,18,9,90,86,adam.miles@example.com
+E0068,Nicholas Mcgee,Marketing,Content Strategist,89,20,90,72,nicholas.mcgee@example.com
+E0069,Alexandra Cole,Marketing,Content Strategist,32,15,90,82,alexandra.cole@example.com
+E0070,Karen Jordan,Sales,Account Manager,57,23,90,61,karen.jordan@example.com
+E0071,Melinda Ellis DDS,Sales,Sales Executive,83,24,90,66,melinda.dds@example.com
+E0072,Sharon Middleton,Sales,Account Manager,94,69,90,68,sharon.middleton@example.com
+E0073,Jill Hancock,Engineering,QA Engineer,45,15,90,81,jill.hancock@example.com
+E0074,Andrea Snyder,HR,HR Manager,30,16,90,89,andrea.snyder@example.com
+E0075,Emily Hayes,Marketing,SEO Specialist,95,5,90,85,emily.hayes@example.com
+E0076,Vanessa Cochran,HR,HR Manager,11,8,90,70,vanessa.cochran@example.com
+E0077,Louis Hicks,Sales,Sales Executive,20,14,90,88,louis.hicks@example.com
+E0078,Shelly Strong,Sales,Sales Executive,98,50,90,75,shelly.strong@example.com
+E0079,Victor Garcia,Sales,Sales Executive,11,8,90,82,victor.garcia@example.com
+E0080,Robert Hamilton,Support,Customer Success Manager,81,68,90,71,robert.hamilton@example.com
+E0081,Nicole Mcmillan,HR,HR Manager,95,17,90,74,nicole.mcmillan@example.com
+E0082,Dr. Trevor Livingston DDS,Finance,Financial Analyst,84,12,90,61,dr..dds@example.com
+E0083,Timothy Williams,Support,Support Agent,95,55,90,69,timothy.williams@example.com
+E0084,Joe Shields,Support,Customer Success Manager,79,37,90,73,joe.shields@example.com
+E0085,Bryan Hill,HR,HR Manager,25,6,90,73,bryan.hill@example.com
+E0086,Christopher Woodward,Finance,Accountant,44,29,90,62,christopher.woodward@example.com
+E0087,Michael Murray,Sales,Account Manager,59,47,90,88,michael.murray@example.com
+E0088,Alex Barnett,HR,HR Manager,51,34,90,73,alex.barnett@example.com
+E0089,Crystal Lloyd,Sales,Sales Executive,70,37,90,85,crystal.lloyd@example.com
+E0090,Kathleen Myers,HR,HR Manager,17,11,90,79,kathleen.myers@example.com
+E0091,James Horton,Support,Support Agent,91,36,90,82,james.horton@example.com
+E0092,Cory Park,Marketing,Content Strategist,80,21,90,87,cory.park@example.com
+E0093,Linda Harrell,Sales,Account Manager,25,22,90,83,linda.harrell@example.com
+E0094,Mark Greene,Support,Customer Success Manager,38,26,90,86,mark.greene@example.com
+E0095,Kyle Decker,Sales,Account Manager,91,75,90,66,kyle.decker@example.com
+E0096,Maria Perry,Marketing,Content Strategist,75,23,90,83,maria.perry@example.com
+E0097,Kenneth Mitchell,Support,Customer Success Manager,68,42,90,65,kenneth.mitchell@example.com
+E0098,Diane Gomez,HR,HR Manager,62,40,90,68,diane.gomez@example.com
+E0099,Duane Anderson,Finance,Accountant,94,81,90,84,duane.anderson@example.com
+E0100,William Hicks,Finance,Accountant,56,50,90,74,william.hicks@example.com
