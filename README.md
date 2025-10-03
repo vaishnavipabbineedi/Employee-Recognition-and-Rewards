@@ -96,10 +96,10 @@ This project was built entirely with **Salesforce Admin tools (no Apex, no exter
 ---
 
 ## 📂 Repository Contents
-- `/docs` → Project Report, PPT
-- `/data` → Sample Employee Data
-- `/flows` → Flow Diagrams
-- `/dashboards` → Dashboard screenshots
+- `docs` → Project Report, PPT
+- `data` → Sample Employee Data
+- `flows` → Flow Diagrams
+- `dashboards` → Dashboard screenshots
 
 ---
 
